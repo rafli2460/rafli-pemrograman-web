@@ -13,3 +13,4 @@ RUN curl -sLo /usr/local/bin/cachetool https://github.com/gordalina/cachetool/re
 # Set working directory
 WORKDIR /var/www/html
 
+CMD ["php-fpm"]

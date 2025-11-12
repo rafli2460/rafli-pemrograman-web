@@ -2,9 +2,9 @@
 
 include_once("config.php");
 
-$kode = $_GET['kode_jenis'];
+$nomor = $_GET['nomor'];
 
-$result = mysqli_query($mysqli, "DELETE FROM tabel_jenis WHERE kode_jenis=$kode");
+$result = mysqli_query($mysqli, "DELETE FROM data_diri_rafli WHERE nomor=$nomor");
 
 header("Location:index.php");
 ?>

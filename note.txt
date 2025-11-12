@@ -1,0 +1,9 @@
+buat blog pribadi : 
+minimal 3 foto yang mendanai perkuliahan
+
+projek : 
+- 1 Database
+- 3 halaman
+- 3 table -> 2 table join
+- 3 field/tabel
+
