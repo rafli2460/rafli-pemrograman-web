@@ -1,7 +1,4 @@
 <?php
-/**
- * using mysqli_connect for database connection
- */
 
 $databaseHost = 'db';
 $databaseName = 'db_kuis1070';
